@@ -37,5 +37,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Atuando como facilitador, junto com os alunos estamos desenvolvendo uma aplicação web para a busca e consulta de bebidas alcoólicas e não alcoólicas. A ideia é explorar diversas tecnologias, conceitos de programação e praticar bastante!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allankildare/projeto-react-resilia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allankildare/projeto-react-resilia/issues"
+  },
+  "homepage": "https://github.com/allankildare/projeto-react-resilia#readme"
 }
